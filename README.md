@@ -1,3 +1,3 @@
-# Rippled-Fruit-Classification-Detection
+# Rotten-Fruit-Classification-Detection
 
 Project is for detecting rippled fruits
