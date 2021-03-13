@@ -6,5 +6,4 @@ if it is rotten it identifies the area of the rotten portion, showing the percen
 Further by using the bounding box, we can use this in ROS as node publishing coordinates of the bounding box,
 which can be used for sorting such fruits using a Robotic Arm. This could be achieved by using Denavit Hartenberg's principal to reach the position of fruit.
 
-![Detection Output1](Rotten-Fruit-Classification-and-Detection/fruit_quality.jpeg?raw=true "Title1")
-![Detection Output2](Rotten-Fruit-Classification-and-Detection/fruit_quality.jpeg1?raw=true "Title2")
+![](fruit_quality.jpeg?raw=true "Title1") "Detaction Output" ![](fruit_quality1.jpeg?raw=true "Title2")
